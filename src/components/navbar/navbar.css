@@ -1,0 +1,22 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+.navbar{
+    background-color: rgba(37, 114, 37, 0.863);
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom : 5px;
+    height: 80px;
+}
+img{
+    height: 70px;
+    width: 70px;
+    float : left;
+    margin-top : 5px;
+}
+.navbar h1{
+   float : right;
+   margin : 20px;
+   color: gold;
+}
