@@ -39,7 +39,7 @@ export const Home = () => {
       </div>
       <div className='last'>
       <h2>So, What are you waiting for? Click on the link below to dive into a new world of organized life</h2>
-      <Link to= "/main-page" >Let's Get Started</Link>
+      <Link to= "/app" >Let's Get Started</Link>
       </div>
 
     </div>
